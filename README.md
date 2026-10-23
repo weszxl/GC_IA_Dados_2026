@@ -23,3 +23,6 @@ Esses cursos não só vão turbinar seus conhecimentos, mas também vão render 
 
 ### Cursos Disponíveis:
 - [💡 Trilha TIC em Trilhas - Análise de dados com Python](https://ticemtrilhas.org.br/trail/2fbdc1e1-2877-4d28-ad73-db456a7e7238)  
+
+
+
